@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Heyu - blog</title>
+    <link>https://heyu.website/post/</link>
+    <description>Recent content in Posts on Heyu - blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Jul 2020 20:41:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://heyu.website/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forms</title>
+      <link>https://heyu.website/post/flutter/forms/</link>
+      <pubDate>Sat, 11 Jul 2020 20:41:11 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/forms/</guid>
+      <description>&lt;p&gt;Flutter Forms widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://heyu.website/post/flutter/buttons/</link>
+      <pubDate>Fri, 10 Jul 2020 17:41:11 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/buttons/</guid>
+      <description>&lt;p&gt;Flutter Buttons widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drawer</title>
+      <link>https://heyu.website/post/flutter/drawer/</link>
+      <pubDate>Sun, 05 Jul 2020 00:15:30 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/drawer/</guid>
+      <description>&lt;p&gt;Flutter Drawer widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Route</title>
+      <link>https://heyu.website/post/flutter/route/</link>
+      <pubDate>Sat, 04 Jul 2020 17:50:00 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/route/</guid>
+      <description>&lt;p&gt;Flutter Route widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Navigator</title>
+      <link>https://heyu.website/post/flutter/navigator/</link>
+      <pubDate>Sat, 04 Jul 2020 17:49:53 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/navigator/</guid>
+      <description>&lt;p&gt;Flutter Navigator widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BottomNavigationBar</title>
+      <link>https://heyu.website/post/flutter/bottomnavigationbar/</link>
+      <pubDate>Sat, 04 Jul 2020 17:49:43 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/bottomnavigationbar/</guid>
+      <description>&lt;p&gt;Flutter BottomNavigationBar  widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>StatefulWidget</title>
+      <link>https://heyu.website/post/flutter/statefulwidget/</link>
+      <pubDate>Sat, 04 Jul 2020 17:49:34 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/statefulwidget/</guid>
+      <description>&lt;p&gt;Flutter StatefulWidget widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wrap</title>
+      <link>https://heyu.website/post/flutter/wrap/</link>
+      <pubDate>Sat, 04 Jul 2020 17:49:22 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/wrap/</guid>
+      <description>&lt;p&gt;Flutter Wrap widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AspectRation&amp;Card</title>
+      <link>https://heyu.website/post/flutter/aspectrationcard/</link>
+      <pubDate>Sat, 04 Jul 2020 17:49:12 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/aspectrationcard/</guid>
+      <description>&lt;p&gt;Flutter AspectRation &amp;amp; Card widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stack</title>
+      <link>https://heyu.website/post/flutter/stack/</link>
+      <pubDate>Sat, 04 Jul 2020 17:48:55 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/stack/</guid>
+      <description>&lt;p&gt;Flutter Stack widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Row&amp;Column&amp;Expanded</title>
+      <link>https://heyu.website/post/flutter/rowcolumnexpanded/</link>
+      <pubDate>Sat, 04 Jul 2020 17:47:49 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/rowcolumnexpanded/</guid>
+      <description>&lt;p&gt;Flutter Row &amp;amp; Column &amp;amp; Expanded widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GridView</title>
+      <link>https://heyu.website/post/flutter/gridview/</link>
+      <pubDate>Sat, 04 Jul 2020 17:47:15 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/gridview/</guid>
+      <description>&lt;p&gt;Flutter GridView widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ListView</title>
+      <link>https://heyu.website/post/flutter/listview/</link>
+      <pubDate>Sat, 04 Jul 2020 17:47:08 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/listview/</guid>
+      <description>&lt;p&gt;Flutter ListView widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>https://heyu.website/post/flutter/image/</link>
+      <pubDate>Sat, 04 Jul 2020 17:46:56 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/image/</guid>
+      <description>&lt;p&gt;Flutter Image widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Container&amp;Text</title>
+      <link>https://heyu.website/post/flutter/containertext/</link>
+      <pubDate>Sat, 04 Jul 2020 17:41:11 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/containertext/</guid>
+      <description>&lt;p&gt;Flutter Container &amp;amp; Text widget example.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://heyu.website/post/flutter/helloworld/</link>
+      <pubDate>Sat, 04 Jul 2020 17:28:00 +0800</pubDate>
+      
+      <guid>https://heyu.website/post/flutter/helloworld/</guid>
+      <description>&lt;p&gt;Flutter helloworld example.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

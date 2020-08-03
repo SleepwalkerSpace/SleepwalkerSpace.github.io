@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://heyu.website/sitemap.xml
